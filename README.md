@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Harshit Tripathi</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF2D55&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Data+Science+Explorer;Full+Stack+Developer;Python+%7C+DSA+%7C+Machine+Learning;CSE+Student+%7C+Future+Data+Scientist" alt="Typing SVG" />
+</p>
+
+<h2 align="center">👋 Hi there, I'm Harshit!</h2>
 
 <h3 align="center">💻 CSE (AI & ML) Student | Web Developer | AI/ML Enthusiast</h3>
 
