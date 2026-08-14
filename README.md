@@ -1,16 +1,37 @@
-## Hi there 👋
-
-<!--
-**harsh10099ht5/harsh10099ht5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──────────────────────────────────────────────────────────────┐
+│                    👨‍💻 Hi, I'm Harshit!                     │
+│                                                              │
+│  🧑‍💻 CSE - AI & ML Student                                  │
+│  🌱 Currently learning DSA, Python & Machine Learning        │
+│  💻 Building Full-Stack Projects                             │
+│  🎯 Preparing for 15+ LPA Placement                          │
+│  🤝 Open to Open Source & Collaboration                      │
+│                                                              │
+│        [ GMAIL ]       [ LINKEDIN ]       [ PORTFOLIO ]      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│                 🛠️ My Tech Stack & Tools                     │
+│                                                              │
+│   PYTHON    C++    HTML    CSS    JAVASCRIPT    BOOTSTRAP    │
+│                                                              │
+│   NODE.JS   EXPRESS   MYSQL   MONGODB   GIT   GITHUB         │
+│                                                              │
+│   NUMPY     PANDAS   MATPLOTLIB   SCIKIT-LEARN   ML         │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│                    📊 GitHub Analytics                       │
+│                                                              │
+│       GitHub Stats       Top Languages       Streak          │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│                    🚀 Featured Projects                       │
+│                                                              │
+│       Job-in-India       Job Portal       Campus Manager     │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│                    📈 Contribution Graph                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
