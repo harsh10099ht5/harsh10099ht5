@@ -90,7 +90,7 @@ A web-based platform designed to help users discover relevant events through con
 
 **Tech Stack:** React, Node.js, Express.js, Python, Scikit-learn.
 
-[View Repository](https://github.com/harsh10099ht5/eventsphere)
+[View Repository](https://github.com/harshittripathi-dev/eventsphere)
 
 ### 02. NAYANTRA
 **Explainable AI for Diabetic Retinopathy Screening**
@@ -116,7 +116,7 @@ A recruitment-oriented application designed to connect job seekers with employme
 
 **Tech Stack:** JavaScript, Web Technologies.
 
-[View Repository](https://github.com/harsh10099ht5/job-portal)
+[View Repository](https://github.com/harshittripathi-dev/job-portal)
 
 ### 04. Campus Manager
 **Campus Administration Management System**
@@ -130,7 +130,7 @@ A web-based application designed to simplify academic administration.
 
 **Tech Stack:** PHP, MySQL.
 
-[View Repository](https://github.com/harsh10099ht5/Campus-Manager)
+[View Repository](https://github.com/harshittripathi-dev/Campus-Manager)
 
 ### 05. Job-in-India
 **Employment Discovery Platform**
@@ -139,7 +139,7 @@ A job discovery platform focused on helping Indian students and freshers explore
 
 **Tech Stack:** HTML, CSS, JavaScript.
 
-[View Repository](https://github.com/harsh10099ht5/Job-in-India)
+[View Repository](https://github.com/harshittripathi-dev/Job-in-India)
 
 ---
 
@@ -155,12 +155,12 @@ A job discovery platform focused on helping Indian students and freshers explore
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh10099ht5&theme=tokyonight" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh10099ht5&theme=tokyonight" alt="Most Used Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshittripathi-dev&theme=tokyonight" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshittripathi-dev&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=harsh10099ht5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=harshittripathi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -168,7 +168,7 @@ A job discovery platform focused on helping Indian students and freshers explore
 ## Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh10099ht5&theme=tokyonight" alt="GitHub Contribution Summary" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshittripathi-dev&theme=tokyonight" alt="GitHub Contribution Summary" />
 </p>
 
 ---
@@ -218,7 +218,7 @@ A job discovery platform focused on helping Indian students and freshers explore
   <a href="mailto:harshittripathi1001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/harsh10099ht5">
+  <a href="https://github.com/harshittripathi-dev">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
